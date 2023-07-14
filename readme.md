@@ -1,9 +1,6 @@
 # RedisWrapper
 RedisWrapper is a Python package that provides a wrapper around Redis, adding a namespace to the keys to prevent collisions with other keys in the Redis database. It simplifies the process of working with Redis by automatically instantiating an instance of Redis within the wrapper, eliminating the need to provide a separate Redis instance.
 
-Installation
-To install RedisWrapper, you can use pip:
-
 Usage
 To use RedisWrapper, follow these steps:
 
