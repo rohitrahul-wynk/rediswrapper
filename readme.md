@@ -28,8 +28,5 @@ In this example, the keys are automatically namespaced using the provided projec
 Contributing
 Contributions to RedisWrapper are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
 
-License
-RedisWrapper is licensed under the MIT License.
-
 Acknowledgements
-RedisWrapper was inspired by the need for an easy-to-use wrapper around Redis, providing namespace support. Special thanks to the Redis community for their excellent work on Redis.
+RedisWrapper was inspired by the need for an easy-to-use wrapper around Redis for ML team, providing namespace support.
