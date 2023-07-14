@@ -9,7 +9,7 @@ Instantiate a RemoteRedis object, providing the Redis hostname, port, project, a
 Use the RemoteRedis object to interact with the Redis database, automatically namespacing the keys.
 Here's an example of how to use RedisWrapper:
 
-from rediswrapper import RemoteRedis
+from redis_connector import RemoteRedis
 
 # Instantiate a RemoteRedis object
 redis = RemoteRedis(host='localhost', port=6379, project='myproject', app='myapp')
